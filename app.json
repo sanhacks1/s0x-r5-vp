@@ -1,0 +1,1 @@
+{"name": "s0x-r5-vp", "addons": [{"plan": "heroku-inference:claude-4-5-haiku", "as": "INFERENCE"}]}
